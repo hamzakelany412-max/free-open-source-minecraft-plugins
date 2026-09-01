@@ -8,3 +8,5 @@ SpawnerPlus — a spawner plugin with 6 main features
 5. you can add more than one spawn egg to increase spawn number (capped at 5)
 6. everything is editable
 MobForge — mob creator gui made for server owners who dont want to edit config files to create a simple mob
+
+(both plugins are early access)
